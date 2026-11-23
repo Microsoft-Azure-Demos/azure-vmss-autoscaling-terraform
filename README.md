@@ -1,4 +1,4 @@
-# **Azure VMSS Autoscaling Infrastructure **
+# **Azure VMSS Autoscaling Infrastructure**
 
 This project deploys a containerized Node.js application on Azure Virtual Machine Scale Sets (VMSS), behind an Azure Load Balancer, with outbound internet connectivity provided by a NAT Gateway. The infrastructure is provisioned using Terraform with a modular architecture.
 
